@@ -5,7 +5,7 @@ export default function Footer() {
     <div className="bg-dark p-4">
       <div className="container bg-dark p-4 d-flex  justify-content-center">
         <p className="text-xs-center text-light">
-          &copy;{new Date().getFullYear()} M.Madrasa -All Right
+          &copy;{new Date().getFullYear()} M.Madrasa -All Rights
         </p>
       </div>
     </div>
