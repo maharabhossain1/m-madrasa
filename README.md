@@ -5,4 +5,4 @@ Madrasa Education services
 - I use React Boostrap and React Router for this page
 
 You can Also visit Our live server
-link :
+link : https://m-madrasa.netlify.app/
