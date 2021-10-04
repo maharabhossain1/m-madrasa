@@ -3,42 +3,49 @@
     "id": 1,
     "title": "Life Time Support",
     "text": "From Our",
-    "img": "https://alquranrecite.com/wp-content/uploads/2019/10/Quran-reading.svg"
+    "img": "https://alquranrecite.com/wp-content/uploads/2019/10/Quran-reading.svg",
+    "fee": 2000
   },
   {
     "id": 2,
     "title": "Online Courses",
     "text": "dsf",
-    "img": "https://alquranrecite.com/wp-content/uploads/2019/10/quran-academy.svg"
+    "img": "https://alquranrecite.com/wp-content/uploads/2019/10/quran-academy.svg",
+    "fee": 2000
   },
   {
     "id": 3,
     "title": "Expart Teacher",
     "text": "dsf",
-    "img": "https://alquranrecite.com/wp-content/uploads/2019/10/Quran-teaching.svg"
+    "img": "https://alquranrecite.com/wp-content/uploads/2019/10/Quran-teaching.svg",
+    "fee": 3000
   },
   {
     "id": 4,
     "title": "Quran with Tajweed",
     "text": "dsf",
-    "img": "https://alquranrecite.com/wp-content/uploads/2019/10/Quran-recitation.svg"
+    "img": "https://alquranrecite.com/wp-content/uploads/2019/10/Quran-recitation.svg",
+    "fee": 5000
   },
   {
     "id": 5,
     "title": "Quran Memorization",
     "text": "dsf",
-    "img": "https://i.pinimg.com/736x/2e/36/0e/2e360ed9a145f26ded49f227d2aeaecc.jpg"
+    "img": "https://i.pinimg.com/736x/2e/36/0e/2e360ed9a145f26ded49f227d2aeaecc.jpg",
+    "fee": 5000
   },
   {
     "id": 6,
     "title": "Quran Translation",
     "text": "dsf",
-    "img": "https://alquranrecite.com/wp-content/uploads/2019/10/Learn-online-quran.svg"
+    "img": "https://alquranrecite.com/wp-content/uploads/2019/10/Learn-online-quran.svg",
+    "fee": 5000
   },
   {
     "id": 7,
     "title": "Daily Islam",
     "text": "dsf",
-    "img": "https://ariosan.or.id/wp-content/uploads/2021/05/ariosan.jpg"
+    "img": "https://ariosan.or.id/wp-content/uploads/2021/05/ariosan.jpg",
+    "fee": 5000
   }
 ]
